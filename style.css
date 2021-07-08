@@ -1,5 +1,6 @@
 * {
 	font-family: "Poppins", sans-serif;
+	/* margin: 0; */
 }
 
 .flex {
@@ -8,13 +9,17 @@
 	margin-bottom: 50px;
 }
 .bg1 {
-	background-image: url("./image/exp-bg.png");
+	background-image: url("./image/top-banner.png");
 	background-repeat: no-repeat;
 }
 .bg2 {
 	background-image: url("./image/dream-bg.png");
 	background-repeat: no-repeat;
 	background-position: right;
+}
+.bg3 {
+	background-image: url("./image/exp-bg.png");
+	background-repeat: no-repeat;
 }
 .flex-item {
 	width: 50%;
